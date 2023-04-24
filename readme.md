@@ -10,5 +10,5 @@ Parts used in this project:
 - Solar Panel and LED
 - Few jumper wires and resistors
   
-** Circuit Diagram **
+**Circuit Diagram**
 ![image](https://user-images.githubusercontent.com/106465753/234077721-e973ff0e-5604-4d8b-9e90-684f44302ee7.png)
